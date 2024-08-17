@@ -1,4 +1,4 @@
-cask "todesk" do
+cask "todesk-keg" do
   version "4.7.2.2"
   sha256 "298318f156a32a23684d4283dbd7477e1a90a8fdf44ca236de1ed3876cc6e115"
 
