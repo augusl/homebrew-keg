@@ -1,6 +1,6 @@
 cask "todesk-keg" do
-  version "4.7.6.1"
-  sha256 "a241fbd2f9ea5f953b854a3d384f635c9d8f60dbc3d3353da91e73f15dd05a54"
+  version "4.7.6.3"
+  sha256 "e28132cb728f76eb97d1c2e66d905e8334b174393038c775804281c6d2b869b4"
 
   url "https://dl.todesk.com/macos/ToDesk_#{version}.pkg",
       user_agent: :fake,
